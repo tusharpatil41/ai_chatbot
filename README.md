@@ -1,16 +1,50 @@
-# ai_chatbot
+# 🎮 AI Tic Tac Toe Game (Flutter)
 
-A new Flutter project.
+An interactive **AI-powered Tic Tac Toe game** built using **Flutter**, featuring an
+intelligent computer opponent implemented with the **Minimax algorithm**.
 
-## Getting Started
+This project is created for **learning, practice, and academic purposes**.
 
-This project is a starting point for a Flutter application.
+> 🚀 Learn with Tushar Patil
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Project Overview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter application allows a user to play **Tic Tac Toe against an AI**.
+The AI makes optimal decisions using the **Minimax algorithm**, making it
+challenging and fun to play.
+
+The project demonstrates:
+- Game logic implementation
+- Artificial Intelligence (Minimax)
+- Flutter UI development
+- Clean code structure
+
+---
+
+## ✨ Features
+
+- 🎯 Single-player mode (Human vs AI)
+- 🤖 Smart AI using Minimax algorithm
+- 🔁 Restart game option
+- 🎨 Clean and responsive UI
+- 🧠 Win, lose, and draw detection
+- 📱 Works on Android (Flutter)
+
+---
+
+## 🧠 AI Logic (Minimax Algorithm)
+
+The AI evaluates all possible game states and selects the **best possible move**
+that maximizes its chance of winning while minimizing the player's chance.
+
+### Algorithm Used:
+- Minimax
+- Recursive decision-making
+- Game state evaluation (win / lose / draw)
+
+---
+
+## 🗂️ Project Structure
+
